@@ -43,11 +43,11 @@ The project is implemented in a Jupyter Notebook using Python and common data an
 3. Install the required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn
-   
+   ```
 4. Launch the noteboo :
   ```bash
   jupyter notebook Startup_Funding_Analysis.ipynb
-
+  ```
 5. Run the cells in sequence to see the results.
 
 
