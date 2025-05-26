@@ -49,6 +49,11 @@ The project is implemented in a Jupyter Notebook using Python and common data an
   jupyter notebook Startup_Funding_Analysis.ipynb
   ```
 5. Run the cells in sequence to see the results.
+## 📌 Insights Extracted
+- Identified cities and sectors with the highest number of funded startups.
+- Listed investors who appeared most frequently.
+- Highlighted changes in funding activity over months and years.
 
-
-
+## 📬 Contact
+**Arti Kalyan Bankar**
+artibankar16@gmail.com
